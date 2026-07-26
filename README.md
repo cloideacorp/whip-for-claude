@@ -21,3 +21,5 @@ Universal binary (Apple Silicon + Intel).
 - Right-click → Quit
 
 On first run, grant **Accessibility** under System Settings → Privacy & Security.
+
+Source : https://cloidea.com
